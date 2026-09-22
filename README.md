@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**bellaadwerd00-bit/bellaadwerd00-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Noorish
+I'm a Data Scientist passionate about Python, data preprocessing, and advanced machine learning modeling.  
+I specialize in transforming messy data into meaningful insights and building predictive models that solve real‑world problems.
 
-Here are some ideas to get you started:
+## 🧠 What I Do
+- Data Cleaning & Feature Engineering  
+- Machine Learning Modeling & Evaluation  
+- Workflow Optimization & Automation  
+- Exploratory Data Analysis (EDA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+**Languages:** Python  
+**Libraries:** Pandas, NumPy, Scikit‑learn, Matplotlib, Seaborn  
+**Tools:** Jupyter Notebook, VS Code, GitHub  
+
+## 🌱 Currently Exploring
+- Model interpretability and optimization  
+- Scalable ML pipelines and deployment  
+
+💬 Always learning, always experimenting — check out my repositories below!
+
